@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">05 Android Checkbox</string>
+    
+    <string name="turkey">Türkiye</string>
+    <string name="spain">İspanya</string>
+    <string name="azerbaijan">Azerbaycan</string>
+    
+    <string name="btnDisplay">Görüntüle</string>
+    
+    
+    <string name="action_settings">Ayarlar</string>
+
+</resources>
